@@ -43,6 +43,7 @@ Open terminal and type *npx cypress run --reporter mochawesome*.
 
 Install dependencies using command *npm install cypress-failed-log*.
 
+# Example of execution
 <p align="center">
 <img src="https://github.com/catalyn98/TestAutomationFrameworkWithCypress/blob/main/execute.png" />
 </p>
@@ -52,4 +53,4 @@ Install dependencies using command *npm install cypress-failed-log*.
 Version 1.0
 
 ## Authors
-* **Catalan Catalin** 
+Catalan Catalin
