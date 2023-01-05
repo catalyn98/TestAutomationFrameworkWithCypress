@@ -5,7 +5,9 @@ Test Automation Framework for UI with Cypress
 Cypress, JavaScript, Cucumber, Mochawsome
 </p>
 
+<p align="center">
 <img src="https://github.com/catalyn98/TestAutomationFrameworkWithCypress/blob/main/cypress.png" />
+</p>
 
 # Tech stack
 Test Automation Framework for UI with Cypress uses a number of open source projects to work properly:
@@ -14,12 +16,12 @@ Test Automation Framework for UI with Cypress uses a number of open source proje
 * [Cucumber](https://cucumber.io) - is a software tool that supports behavior-driven development.
 * [Mochawsome](https://www.npmjs.com/package/mochawesome) - is a custom reporter for use with the Javascript testing framework.
 
-### Prerequisites
+# Prerequisites
 
 * Node JavaScript installed.
 * Open terminal and install Cypress using *npm install cypress*.
 
-## Running the tests
+# Running the tests
 
 #### Run single test file in headless mode
 Open terminal and type *npx cypress run --spec=’path to file’*.
@@ -27,17 +29,17 @@ Open terminal and type *npx cypress run --spec=’path to file’*.
 #### Run all tests 
 Open up the framework in Visual Studio Code or similar IDE and just execute in the command line/terminal *npx cypress open*.
 
-## Reporting
+# Reporting
 
 **Mochawsome reports**
 
 Install Mochawsome reports using command  *npm install mochawesome*.
 
-#### Generate report  
+# Generate report  
 
 Open terminal and type *npx cypress run --reporter mochawesome*.
 
-## Failed Logs JSON reporter
+# Failed Logs JSON reporter
 
 Install dependencies using command *npm install cypress-failed-log*.
 
