@@ -21,6 +21,11 @@ Test Automation Framework for UI with Cypress uses a number of open source proje
 * Once NodeJS is installed, open the terminal and run the following command to install Cypress:
 `npm install cypress`, this command will download and install Cypress on your system, allowing you to use it for test automation.
 
+### Clone the repositories
+```sh
+$ git clone https://github.com/catalyn98/TestAutomationFrameworkWithCypress.git
+```
+
 # Running the tests
 #### Run all tests 
 Open up the framework in Visual Studio Code or similar IDE and just execute in the command line/terminal:
