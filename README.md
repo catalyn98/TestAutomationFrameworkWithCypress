@@ -17,14 +17,14 @@ Test Automation Framework for UI with Cypress uses a number of open source proje
 * [Mochawesome](https://www.npmjs.com/package/mochawesome) - is a custom reporter for use with the Javascript testing framework.
 
 # Prerequisites
-* To use and work with Cypress, ensure that you have NodeJS installed on your machine, if you don't have, you can download it from [here](https://nodejs.org/).
-* Once NodeJS is installed, open the terminal and run the following command to install Cypress:
-`npm install cypress`, this command will download and install Cypress on your system, allowing you to use it for test automation.
-
 ### Clone the repositories
 ```sh
 $ git clone https://github.com/catalyn98/TestAutomationFrameworkWithCypress.git
 ```
+
+* To use and work with Cypress, ensure that you have NodeJS installed on your machine, if you don't have, you can download it from [here](https://nodejs.org/).
+* Once NodeJS is installed, open the terminal and run the following command to install Cypress:
+`npm install cypress`, this command will download and install Cypress on your system, allowing you to use it for test automation.
 
 # Running the tests
 #### Run all tests 
