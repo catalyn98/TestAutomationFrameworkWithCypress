@@ -49,3 +49,14 @@ Install dependencies using command `npm install cypress-failed-log`.
 <p align="center">
   <img src="https://github.com/catalyn98/TestAutomationFrameworkWithCypress/blob/main/execute.png" />
 </p>
+
+# Credit
+This Test Automation Framework with Cypress project was developed based on a comprehensive tutorial on Udemy titled **"Automated Software Testing with Cypres"**. You can find the tutorial [here](https://www.udemy.com/course/automated-testing-with-cypress/).
+
+### Description
+The tutorial provided a step-by-step guide on creating a robust and efficient Test Automation Framework using Cypress. It covered various aspects of test automation, including setting up the framework, writing test scripts, organizing tests into test suites, handling assertions and validations, and integrating with continuous integration tools.
+By following the tutorial, I learned how to write clean and readable test scripts, implement page object pattern for test organization, and perform various testing activities such as interacting with web elements, making assertions, and generating test reports.
+The instructor demonstrated excellent teaching skills, providing clear explanations and best practices throughout the tutorial. His expertise in test automation and Cypress helped me understand the intricacies of building a reliable and scalable test framework.
+
+### Acknowledgment
+I would like to express my gratitude to the instructor for sharing his knowledge and expertise through the tutorial. His comprehensive guidance and hands-on examples were invaluable resources in developing this Test Automation Framework with Cypress. I highly recommend this tutorial to anyone interested in enhancing their test automation skills using Cypress.
